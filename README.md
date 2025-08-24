@@ -1,6 +1,6 @@
   ## Hi 👋, I'm Kunal Kumar
 
-test
+I have a strong motivation to develop applications, improve machine learning and common software engineering processes. I love challenging myself & growing.
 <!--
 **kay1-2-3/kay1-2-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
