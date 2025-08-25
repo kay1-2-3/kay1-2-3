@@ -31,6 +31,8 @@ Languages and Tools:
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" height="25">
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" height="25">
 
 <!--
 **kay1-2-3/kay1-2-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
