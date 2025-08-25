@@ -5,32 +5,33 @@ I have a strong motivation to develop applications, improve machine learning and
 📫 How to reach me: kunalkumar787@gmail.com
 
 Languages and Tools:
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/android.svg" alt="Android" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/c.svg" alt="C" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cplusplus.svg" alt="C++" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csharp.svg" alt="C#" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" alt="CSS3" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/django.svg" alt="Django" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" alt="Docker" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" alt="Git" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/grafana.svg" alt="Grafana" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" alt="HTML5" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg" alt="Java" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kotlin.svg" alt="Kotlin" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" alt="MongoDB" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg" alt="MySQL" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/node-dot-js.svg" alt="Node.js" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/php.svg" alt="PHP" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg" alt="PyTorch" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" alt="React" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg" alt="React Native" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="Tailwind CSS" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" alt="TypeScript" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vue-dot-js.svg" alt="Vue.js" width="30" height="30"/>
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="25">
+
 <!--
 **kay1-2-3/kay1-2-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
