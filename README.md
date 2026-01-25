@@ -2,7 +2,7 @@
 
 I'm a passionate aspiring software developer with a strong interest in learning and exploring new technologies. I enjoy building projects that challenge me to grow and improve my skills, from web development to working with databases and machine learning tools. My goal is to continue learning, experimenting, and contributing to projects that make an impact while building a strong foundation as a versatile software developer.
 
-📫 How to reach me: kunalkumar787@gmail.com
+📫 How to reach me: kunalkumar167003@gmail.com
 
 Languages and Tools:
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="25">
